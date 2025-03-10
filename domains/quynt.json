@@ -1,0 +1,11 @@
+{
+    "description": "Website for QuyNT",
+    "owner": {
+      "username": "quyntit51vn"
+    },
+    "record": {
+        "CNAME": "connectify-call-friends.vercel.app"
+    },
+    "proxied": true
+  }
+  
